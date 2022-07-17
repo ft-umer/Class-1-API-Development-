@@ -1,0 +1,15 @@
+.center{
+    text-align: center;
+}
+
+#header-list li{
+    display: inline;
+}
+
+.menu-img{
+    height:150px;
+}
+
+#time-table{
+    align-items: center;
+}
